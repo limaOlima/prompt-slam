@@ -19,7 +19,7 @@ module.exports = {
 			},
 			colors: {
 				'prompt-orange': {
-					DEFAULT: '#F82B38'
+					DEFAULT: '#ca85de' //'#F82B38' 
 				},
 				'prompt-blue': {
 					DEFAULT: '#276BD0'
